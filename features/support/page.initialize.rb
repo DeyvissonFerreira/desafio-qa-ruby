@@ -1,4 +1,4 @@
-Dir[File.join(File.dirname(__FILE__), "~/../ruby_automation/features/pages*.page.rb")].each { |file| require file }
+Dir[File.join(File.dirname(__FILE__), "~/../desafio-qa-ruby/features/pages*.page.rb")].each { |file| require file }
 
 module Page
 
